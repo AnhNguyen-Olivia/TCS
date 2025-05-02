@@ -68,6 +68,7 @@ Once the DFA is set up:
 5. Step-by-step execution mode
 6. Display DFA information
 7. Exit
+
 =======================================
 
 ## 🎯 Example Input & Output
